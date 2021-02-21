@@ -9,7 +9,13 @@
   - 에리히감마, 리차드헬름, 랄프존슨, 존 블리시디스
   - 소프트웨어 개발 여역에서 디자인 패턴을 구체화하고 체계화한 사람들
   - 23가지 디자인 패턴을 정리하고 각각의 디자인 패턴을 생성, 구조, 행위 3가지로 분류
+<br/>
+- GoF 디자인 패턴의 분류
 
+
+
+
+<br/>
 > 1. strategy pattern
 >    * 추상클래스와 인터페이스 [[간단정리]](https://pro-growth.tistory.com/213)
 >    * strategy pattern [[참고자료]](https://gmlwjd9405.github.io/2018/07/06/strategy-pattern.html)
