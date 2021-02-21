@@ -15,7 +15,7 @@
 
 
 <br>
-<br/>
+#### 행위 패턴 
 > 1. strategy pattern
 >    * 추상클래스와 인터페이스 [[간단정리]](https://pro-growth.tistory.com/213)
 >    * strategy pattern [[참고자료]](https://gmlwjd9405.github.io/2018/07/06/strategy-pattern.html)
