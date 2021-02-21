@@ -1,4 +1,3 @@
-<style>div { text-align: center; }</style>
 
 ## Design Pattern Study
 디자인패턴에 대해 공부하며 연관된 기초지식들을 함께 정리한다.
@@ -12,7 +11,7 @@
   - 소프트웨어 개발 여역에서 디자인 패턴을 구체화하고 체계화한 사람들
   - 23가지 디자인 패턴을 정리하고 각각의 디자인 패턴을 생성, 구조, 행위 3가지로 분류
 - GoF 디자인 패턴의 분류<br>
-<div><img width="750" alt="GoF" src="https://user-images.githubusercontent.com/67686761/108626218-67c5de00-7492-11eb-9bf8-fa32b7c68e7b.png"></div>
+<img width="100%" alt="GoF" src="https://user-images.githubusercontent.com/67686761/108626218-67c5de00-7492-11eb-9bf8-fa32b7c68e7b.png">
 
 1. 생성(Creational)패턴
     - 객체 생성에 관련된 패턴
@@ -53,7 +52,7 @@
   - 다른 관점에서 보면, 동일한 기능을 상위 클래스에서 정의하면서 확장/변화가 필요한 부분만 서브클래스에서 구현할 수 있도록 한다.
   - 전체적인 알고리즘은 상위클래스에서 구현하면서 다른 부분은 하위클래스에서 구현할 수 있도록 전체적인 알고리즘 코드를 재사용하는데 유용하다.
 <br>
-<div><img width="476" align="center" alt="TemplateMethods" src="https://user-images.githubusercontent.com/67686761/108629456-4d483080-74a3-11eb-90c0-4021355e9df5.png"></div>
+<img width="476" align="center" alt="TemplateMethods" src="https://user-images.githubusercontent.com/67686761/108629456-4d483080-74a3-11eb-90c0-4021355e9df5.png">
 
 
 2. Strategy Pattern
