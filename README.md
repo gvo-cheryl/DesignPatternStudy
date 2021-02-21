@@ -41,7 +41,16 @@
 ![image](https://user-images.githubusercontent.com/67686761/108626507-da838900-7493-11eb-8aee-2efc418b0687.png)
 
 
-#### 행위 패턴 
-> 1. strategy pattern
->    * 추상클래스와 인터페이스 [[간단정리]](https://pro-growth.tistory.com/213)
->    * strategy pattern [[참고자료]](https://gmlwjd9405.github.io/2018/07/06/strategy-pattern.html)
+
+
+
+## 행위 패턴 
+1. Template Method Pattern
+- 어떤 작업을 처리하는 일부분을 서브클래스로 캡슐화해 전체 일을 수행하는 구조는 바꾸지 않으면서 특정단계에서 수행하는 내역을 바꾸는 패턴
+  - 즉, 전체적으로는 동일하면서 부분적으로는 다른 구문으로 구성된 메서드의 코드 중복을 최소화할 때 유용
+  - 다른 관점에서 보면, 동일한 기능을 상위 클래스에서 정의하면서 확장/변화가 필요한 부분만 서브클래스에서 구현할 수 있도록 한다.
+  - 전체적인 알고리즘은 상위클래스에서 구현하면서 다른 부분은 하위클래스에서 구현할 수 있도록 전체적인 알고리즘 코드를 재사용하는데 유용하다.
+
+2. Strategy Pattern
+>  * 추상클래스와 인터페이스 [[간단정리]](https://pro-growth.tistory.com/213)
+>  * strategy pattern [[참고자료]](https://gmlwjd9405.github.io/2018/07/06/strategy-pattern.html)
