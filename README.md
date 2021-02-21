@@ -14,7 +14,7 @@
 
 
 
-
+<br>
 <br/>
 > 1. strategy pattern
 >    * 추상클래스와 인터페이스 [[간단정리]](https://pro-growth.tistory.com/213)
