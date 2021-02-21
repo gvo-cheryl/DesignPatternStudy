@@ -11,6 +11,7 @@
   - 23가지 디자인 패턴을 정리하고 각각의 디자인 패턴을 생성, 구조, 행위 3가지로 분류
 <br/>
 - GoF 디자인 패턴의 분류
+<img width="750" alt="GoF" src="https://user-images.githubusercontent.com/67686761/108626218-67c5de00-7492-11eb-9bf8-fa32b7c68e7b.png">
 
 
 
