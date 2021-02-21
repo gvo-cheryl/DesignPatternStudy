@@ -1,6 +1,10 @@
 ## Design Pattern Study
+디자인패턴에 대해 공부하며 연관된 기초지식들을 함께 정리한다.
 
-#### 디자인패턴에 대해 공부하며 연관된 기초지식들을 함께 정리한다.
+<br/>
+
+
+#### GoF 디자인 패턴
 
 > 1. strategy pattern
 >    * 추상클래스와 인터페이스 [[간단정리]](https://pro-growth.tistory.com/213)
