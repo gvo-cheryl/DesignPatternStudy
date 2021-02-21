@@ -52,7 +52,7 @@
   - 다른 관점에서 보면, 동일한 기능을 상위 클래스에서 정의하면서 확장/변화가 필요한 부분만 서브클래스에서 구현할 수 있도록 한다.
   - 전체적인 알고리즘은 상위클래스에서 구현하면서 다른 부분은 하위클래스에서 구현할 수 있도록 전체적인 알고리즘 코드를 재사용하는데 유용하다.
 <br>
-<img width="476" align="center" alt="TemplateMethods" src="https://user-images.githubusercontent.com/67686761/108629456-4d483080-74a3-11eb-90c0-4021355e9df5.png">
+<img width="100%" align="center" alt="TemplateMethods" src="https://user-images.githubusercontent.com/67686761/108629456-4d483080-74a3-11eb-90c0-4021355e9df5.png">
 
 
 2. Strategy Pattern
