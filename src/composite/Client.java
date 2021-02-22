@@ -1,5 +1,10 @@
 package composite;
 
+import composite.simple.Body;
+import composite.simple.Computer;
+import composite.simple.Keyboard;
+import composite.simple.Monitor;
+
 public class Client {
 
     public static void main(String[] args) {

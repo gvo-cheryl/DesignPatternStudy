@@ -1,4 +1,4 @@
-package composite;
+package composite.simple;
 
 public class Computer {
 

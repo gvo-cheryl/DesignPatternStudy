@@ -1,6 +1,8 @@
-package composite;
+package composite.simple;
 
-public class Body extends ComputerDevice{
+import composite.ComputerDevice;
+
+public class Body extends ComputerDevice {
 
     private int price;
     private int power;

@@ -1,11 +1,13 @@
-package composite;
+package composite.simple;
 
-public class Keyboard extends ComputerDevice{
+import composite.ComputerDevice;
+
+public class Monitor extends ComputerDevice {
 
     private int price;
     private int power;
 
-    public Keyboard(int power, int price) {
+    public Monitor(int power, int price) {
         this.price = price;
         this.power = power;
     }
