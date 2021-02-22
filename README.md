@@ -70,7 +70,7 @@
 > 3) 모니터 : 처리 결과를 출력한다.
 > 4) 새로운 부품을 추가하기 위한 확장성 있는 형태로 구현한다. 
 
-![image](https://user-images.githubusercontent.com/67686761/108742314-eeee8100-757a-11eb-930c-371555e935f6.png)
+![image](https://user-images.githubusercontent.com/67686761/108742503-1a716b80-757b-11eb-8cce-2f982ab0c3f6.png)
 
 
 
